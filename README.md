@@ -1,2 +1,2 @@
 # NLP-learning-path
-The way I learned NLP as an undergraduate was a little different from most other learning methods. Instead of taking a course, I read quantitative literature every week.
+Dr. Leo Du suggested that I record what I learned on GitHub so that I can review it again in my spare time in the future.
