@@ -1,0 +1,19 @@
+a)     What are the problems that this paper aims to tackle?
+
+b)     How the authors tackle the mentioned problems?
+
+c)     What are the highlights or new ideas of this paper?
+
+d)     What’s the performance of the method proposed in the paper?
+
+e)     What aspects can be improved about the proposed method?
+
+a) 这篇论文旨在解决哪些问题？
+
+b) 作者如何解决这些问题？
+
+c) 这篇论文的亮点或新思想是什么？
+
+d) 论文中提出的方法的性能如何？
+
+e) 对于所提出的方法，有哪些方面可以改进？
