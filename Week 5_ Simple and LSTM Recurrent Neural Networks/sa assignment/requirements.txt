@@ -1,4 +1,3 @@
-torch
-torchvision
-jieba
-d2l
+version https://git-lfs.github.com/spec/v1
+oid sha256:7076349452a214313fdff141e26c9a230359ee3034c70e0adb28a93afa15fe43
+size 30
